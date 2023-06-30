@@ -118,7 +118,7 @@ computeArea(8, 4); // the 8 and 4 are the arguments of the parameters AKA inputs
 
 // The area of a rectangle with a width of __ and a height of __ is __ square units.
 
-
+// I have a lovely bunch of coconuts
 
 console.log("Exercise 2");
 // Write a function named planetHasWaterusing the function expression syntax.
